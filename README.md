@@ -1,3 +1,5 @@
-# Landing Page For Chatr
+# Chatr
 
-![Alt Text](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Keyboard Cat](https://i.postimg.cc/rp9GWzzP/keyboardcat.jpg)
+
+Original design by [Caler Edwards](https://www.youtube.com/user/CalerEdwards)
