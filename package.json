@@ -1,0 +1,15 @@
+{
+	"name": "chatr",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"sassy": "sass --watch main.sass:css/main.css"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"sass": "^1.15.1"
+	}
+}
