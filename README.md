@@ -2,4 +2,4 @@
 
 ![Keyboard Cat](https://i.postimg.cc/rp9GWzzP/keyboardcat.jpg)
 
-Original design by [Caler Edwards](https://www.youtube.com/user/CalerEdwards)
+Original design by [Caler Edwards](http://www.caleredwards.com/)
